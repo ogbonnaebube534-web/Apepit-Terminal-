@@ -1,7 +1,7 @@
 # 🦍 APEPIT TERMINAL — Solana Memecoin Signal Trading Agent
 
 **Demo:** https://4dpxafpe.mule.page/
-**Team:** 0xRegime | **Handle:** @defitony0x | **Hackathon:** #BitgetHackathon
+**Team:** Apepit Terminal | **Handle:** @Chri_stiana110 | **Hackathon:** #BitgetHackathon
 
 ---
 
