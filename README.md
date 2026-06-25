@@ -126,4 +126,4 @@ APEPIT TERMINAL is a Solana memecoin intelligence layer and trading terminal. It
 
 > ⚠️ Memecoins are high-risk. Only trade what you can afford to lose. NFA.
 
-**#BitgetHackathon @BitgetAI | Built by 0xRegime**
+**#BitgetHackathon @BitgetAI | Built by Apepit**
